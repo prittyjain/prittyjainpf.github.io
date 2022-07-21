@@ -279,7 +279,7 @@ h4{
 /*medium screens - Laptops*/
 @media screen and (max-width: 1024px) {
     .hero{
-        background-image:url("https://source.unsplash.com/f4RBYsY2hxA/400x320");
+        background-image:url("https://github.com/prittyjain/prittyjainpf.github.io/blob/Projects/pic.jpg");
         height: 500px;
         background-position: center;
     }
